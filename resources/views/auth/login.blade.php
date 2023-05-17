@@ -15,5 +15,6 @@
         <br>
         <button type="submit">Iniciar sesión</button>
     </form>
+    <a href=" {{ route('register') }}">Crea una cuenta ahora</a>
 </body>
 </html>
